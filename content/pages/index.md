@@ -64,10 +64,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          More then 500k Data we make everyday to make better future. Join with
+          our Team Expert to Deploy what you need and what you want!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
