@@ -61,7 +61,7 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
+            "altText": "GitHub",
             "url": "https://github.com/bagusdevid",
             "icon": "github",
             "type": "Social"
