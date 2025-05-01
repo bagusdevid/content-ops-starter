@@ -233,11 +233,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Grow with us, for more secure and fast.
+      Our Company now is build a payment gateway for every reason you need.
+      So come and join with us!
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
