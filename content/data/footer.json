@@ -65,6 +65,13 @@
             "url": "https://github.com/bagusdevid",
             "icon": "github",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/uncle_gita",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
