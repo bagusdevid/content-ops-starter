@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: What pay is what you get
     items:
       - type: FeaturedItem
         title: 500k
