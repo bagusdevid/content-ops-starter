@@ -66,7 +66,7 @@ sections:
         subtitle: Numbers Done
         text: >
           More then 500k Data we make everyday to make better future. Join with
-          our Team Expert to Deploy what you need and what you want!
+          our Team Expert to Deploy what you need and what you want.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
