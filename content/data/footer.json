@@ -65,12 +65,6 @@
             "url": "https://github.com/bagusdevid",
             "icon": "github",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
